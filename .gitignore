@@ -1,0 +1,14 @@
+# Created by https://www.gitignore.io/api/elm,elm
+
+### Elm ###
+# elm-package generated files
+elm-stuff
+# elm-repl generated files
+repl-temp-*
+
+
+### Elm ###
+# elm-package generated files
+# elm-repl generated files
+
+# End of https://www.gitignore.io/api/elm,elm
